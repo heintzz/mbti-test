@@ -1,0 +1,20 @@
+SNS,Do you often rely on past experiences to guide your decisions and actions?
+SNS,Are you more likely to notice and remember details than the overall impression or idea?
+SNS,Are you more interested in practical and tangible things rather than abstract and theoretical concepts?
+NTU,Do you often find yourself thinking about abstract concepts and theories?
+NTU,Do you find yourself making connections and seeing patterns between seemingly unrelated things?
+SNS,Do you prefer to work with concrete, hands-on tasks rather than abstract, theoretical tasks?
+NTU,Do you enjoy learning new things just for the sake of knowledge and understanding?
+NTU,Do you prefer to look at the big picture rather than the details?
+NTU,Do you enjoy thinking about possibilities and potential future scenarios?
+NTU,Do you rely on your instincts and hunches when making decisions?
+SNS,Do you prefer to gather information through direct observation and firsthand experience rather than abstract concepts or theories?
+NTU,Do you enjoy exploring new and unconventional ideas?
+SNS,Do you prefer to focus on present realities rather than future possibilities?
+NTU,Do you find it easy to come up with new and original ideas?
+SNS,Are you more detail-oriented rather than big-picture oriented?
+SNS,Do you trust your personal experiences more than external data or theoretical knowledge?
+SNS,Do you prefer established facts and proven methods rather than new ideas and untested theories?
+NTU,Do you often imagine and daydream about different outcomes and scenarios?
+NTU,Do you trust your inner voice when making important decisions?
+SNS,Are you more interested in immediate and concrete information rather than abstract and theoretical information?

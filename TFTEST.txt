@@ -1,0 +1,20 @@
+TNK,Do you prefer to make decisions based on logical analysis rather than your feelings?
+FLG,Do you believe that harmony and interpersonal relationships are more important than efficiency or productivity?
+FLG,Do you find it easy to express your emotions and talk about how you feel with others?
+FLG,Do you prioritize your own emotions and values over objective reasoning when making decisions?
+FLG,Do you often put yourself in other people's shoes to understand their perspective or how they might be feeling?
+TNK,Do you tend to prioritize efficiency and effectiveness over personal relationships and feelings?
+TNK,Do you tend to speak in a direct and frank manner, without considering the emotional impact on others?
+TNK,Do you prefer to solve problems based on objective facts and data rather than subjective opinions and personal experiences?
+FLG,Do you often make decisions based on your gut feeling rather than logic and facts?
+TNK,Do you value honesty and fairness above empathy and compassion?
+TNK,Do you tend to be more critical and skeptical than accepting and sympathetic towards others?
+FLG,Do you often take others' feelings into account when making decisions, even if it's not the most logical choice?
+FLG,Do you value empathy and compassion as important qualities in yourself and others?
+FLG,Do you find yourself frequently getting emotionally affected by movies, books, or music?
+FLG,Do you believe that it's important to validate other people's feelings, even if you don't necessarily agree with them?
+TNK,Do you believe that the truth should be more important than people's opinions or feelings?
+TNK,Do you believe that emotions should not cloud one's judgment or decision making?
+TNK,Do you tend to rely more on your head than your heart when it comes to decision making?
+FLG,Do you enjoy spending time discussing personal or emotional topics with friends and family?
+TNK,Do you tend to be more comfortable in a work or academic environment that values logic and reason over emotions and socializing?

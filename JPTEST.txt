@@ -1,0 +1,20 @@
+PCV,Do you prefer to have a flexible routine rather than a strict schedule?
+JDG,Do you find it difficult to change your plans once they have been made?
+PCV,Do you often find yourself getting distracted by new ideas or interests?
+PCV,Do you find it easier to adapt to changes in plans or routines?
+JDG,Do you feel a sense of satisfaction when you complete tasks on time or ahead of schedule?
+PCV,Do you prefer to plan out your schedule in advance?
+PCV,Do you tend to procrastinate when it comes to starting tasks or projects?
+JDG,Do you prefer to plan out your day in advance rather than just going with the flow?
+PCV,Do you prefer to have a variety of tasks and projects to work on at once?
+JDG,Do you feel more comfortable when things are settled and predictable rather than uncertain and open-ended?
+JDG,Do you prefer to work with deadlines rather than open-ended timelines?
+PCV,Do you find it difficult to make decisions quickly?
+JDG,Do you often make lists or schedules to stay organized?
+PCV,Do you tend to keep your work area tidy and organized?
+JDG,Do you prefer to make decisions based on objective criteria rather than subjective factors?
+PCV,Do you often change your mind about plans or decisions?
+PCV,Do you enjoy trying new things and exploring new ideas?
+JDG,Do you find it frustrating when people are consistently late or unreliable?
+JDG,Do you believe that it's important to follow through on commitments, even if it's inconvenient or difficult?
+JDG,Do you believe that rules and structure are important for achieving goals?

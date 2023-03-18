@@ -1,0 +1,20 @@
+INT,Do you find small talk with strangers uncomfortable or unnecessary?
+EXT,Do you prefer having many social engagements in your calendar over having alone time?
+INT,Do you prefer spending time alone to recharge your energy?
+EXT,Do you prefer to be in the midst of the action rather than observing from the sidelines?
+EXT,Do you find it easy to strike up a conversation with strangers?
+INT,Do you feel exhausted after spending a lot of time with people?
+EXT,Do you feel energized and excited when you're in a large group of people?
+EXT,Do you often feel the need to fill any silence in a conversation?
+INT,Do you find it easier to express yourself through writing or other creative outlets rather than speaking?
+INT,Do you feel drained or exhausted after attending a social gathering or event?
+INT,Do you prefer reading a book or watching a movie over going to a party?
+INT,Do you prefer one-on-one conversations to group conversations?
+EXT,Do you enjoy meeting new people and making new friends?
+INT,Do you often think before speaking or acting?
+EXT,Do you feel energized and excited after spending time with people?
+INT,Do you have a small group of close friends rather than a large group of acquaintances?
+INT,Do you prefer working independently over working in a team?
+EXT,Do you enjoy being the center of attention in social situations?
+EXT,Do you feel bored or lonely when you spend too much time alone?
+EXT,Do you find yourself thinking out loud and discussing your ideas with others?
